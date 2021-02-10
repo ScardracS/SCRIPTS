@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 echo "This script is developed & tested by me (ScardracS) for the Motorola Moto X Play/Pure/Style."
 echo "Feel free to use and/or modify it, but please give me proper credits."
 echo "I don't assume any responsibility if You damage your device/s, You have been warned!"
